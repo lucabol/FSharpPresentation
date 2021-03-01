@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a7vYJuDrDZNQMC6Z/8SMNv0ds+WqRr6Z+HcHIaD1kDloRDeziWrUjxYditUAitvd4qwigrIqTh/q+/dunRifQQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\FSharpPresentation\\FSharpPresentation.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucabol\\.nuget\\packages\\fsharp.collections.parallelseq\\1.1.4\\fsharp.collections.parallelseq.1.1.4.nupkg.sha512",
+    "C:\\Users\\lucabol\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

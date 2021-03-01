@@ -1,0 +1,31 @@
+Hello
+
+1. Talk for an hour
+2. Write code is fun: intellisense, breakpoints, debug, libraries, infrastructure
+3. But algorithms are still the same, imperative, not what we are trying to achieve, bar methaphor, for loops, indexing
+4. X = X + 1, programmers, mathematicians, all of them
+5. Another paradigm, LISP, Haskell, OCaml not catch on
+6. Why? Not clear, but one reason is that they don't have all the tools at point 2.
+7. F# taking the power and merging with all things .net
+8. Large generalization, now the code arrives
+
+1. Explore your domain, scripting
+2. let y = 0 (*) Most important keyword, not assign a value to a variable, but assign symbol
+3. let data = [1.;2.;3.]
+4. let sqr x = x * x
+5. sumofsqr -> mutable, <-
+6. inference, float
+
+1. How a mathematician
+2. Math -> switch on steroid + assignment
+3. Not that much better
+
+1. As I mentioned
+2. |> pipeline second most important operator, 2/3 of the language
+3. Mind to code, you don't have loops in your mind, sum knows that it starts from 0
+4. If they compile, it works
+5. And it is parallel!
+6. I can't prove it
+
+
+Little toy applications.
