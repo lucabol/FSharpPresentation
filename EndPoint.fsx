@@ -1,3 +1,6 @@
+#r "nuget:FSharp.Collections.ParallelSeq"
+open FSharp.Collections.ParallelSeq
+
 let data = [1.;2.;3.;4.]
 
 let sqr x = x * x
